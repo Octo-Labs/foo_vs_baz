@@ -166,6 +166,7 @@ DEPENDENCIES
   capybara
   coffee-rails (~> 3.2.1)
   easymarklet (~> 0.0.8)
+  heroku-api
   heroku_san (~> 4.2.1)
   jquery-rails
   pg

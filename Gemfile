@@ -32,6 +32,7 @@ group :test, :development do
   gem "capybara"
   gem "poltergeist"
   gem "heroku_san", "~> 4.2.1"
+  gem "heroku-api"
 end
 
 # To use ActiveModel has_secure_password
