@@ -85,7 +85,7 @@ GEM
     mime-types (1.25.1)
     multi_json (1.8.2)
     nokogiri (1.5.5)
-    pg (0.14.1)
+    pg (0.21.0)
     poltergeist (1.0.2)
       capybara (~> 1.1)
       childprocess (~> 0.3)
@@ -168,7 +168,7 @@ DEPENDENCIES
   heroku-api
   heroku_san (~> 4.2.1)
   jquery-rails
-  pg
+  pg (< 1)
   poltergeist
   rails (= 3.2.16)
   rspec-rails (~> 2.0)
