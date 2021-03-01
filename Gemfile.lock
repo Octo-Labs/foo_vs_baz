@@ -63,7 +63,7 @@ GEM
       multi_json (~> 1.0)
     faye-websocket (0.4.6)
       eventmachine (>= 0.12.0)
-    ffi (1.1.5)
+    ffi (1.12.2)
     heroku-api (0.3.7)
       excon (~> 0.16.10)
     heroku_san (4.2.1)
